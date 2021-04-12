@@ -1,0 +1,15 @@
+Description
+-------------
+Project done by self as a part of self Learning.
+Implemented simple calculator using signal and slots.
+
+digit pressed function;used to enter the digit from 0 to 9.
+	special case function for decimal was in included followed by zero.
+	function to include second number after operator is pushed is include.
+	
+slot was added to decimal button released.
+slots was added for +/_ and % button 
+slot was added for clear button
+slot was added to equals butto.
+	basic operation was performed based on the operand.
+
